@@ -162,7 +162,7 @@ if(isset($_POST['submit'])){
         <div class="card p-3">
             <div class="d-flex flex-row align-items-center justify-content-between text-white">
                 <div class="d-flex flex-row align-items-center"> <i class="fa fa-angle-left"></i> <span class="ml-2">Contactless Payment</span> </div>
-                <div class="image mr-3"> <img src="images\me1.jpg" class="rounded-circle" width="30" /> </div>
+                <div class="image mr-3"> <img src="me1.jpg" class="rounded-circle" width="30" /> </div>
             </div>
             <div class="mt-5 mb-5 d-flex align-items-center justify-content-center">
                 <div class="circle"><i class="fa fa-wifi"></i></div>
